@@ -1,4 +1,4 @@
-```jsx
+
 const About = () => {
     return (
         <>
@@ -6,14 +6,10 @@ const About = () => {
                 <div className="container">
                     <div className="row">
 
-                        {/* Card 1 */}
+                        
                         <div className="col-md-4 mb-3">
-                            <div className="card h-100">
-                                <img
-                                    src="https://picsum.photos/400/200?random=1"
-                                    className="card-img-top"
-                                    alt="Card 1"
-                                />
+                            <div className="card">
+                                <img src="..." className="card-img-top" alt="Card 1" />
 
                                 <div className="card-body">
                                     <h4 className="card-title">Card One</h4>
@@ -30,14 +26,10 @@ const About = () => {
                             </div>
                         </div>
 
-                        {/* Card 2 */}
+                       
                         <div className="col-md-4 mb-3">
-                            <div className="card h-100">
-                                <img
-                                    src="https://picsum.photos/400/200?random=2"
-                                    className="card-img-top"
-                                    alt="Card 2"
-                                />
+                            <div className="card">
+                                <img src="..." className="card-img-top" alt="Card 2" />
 
                                 <div className="card-body">
                                     <h4 className="card-title">Card Two</h4>
@@ -54,14 +46,10 @@ const About = () => {
                             </div>
                         </div>
 
-                        {/* Card 3 */}
+                        
                         <div className="col-md-4 mb-3">
-                            <div className="card h-100">
-                                <img
-                                    src="https://picsum.photos/400/200?random=3"
-                                    className="card-img-top"
-                                    alt="Card 3"
-                                />
+                            <div className="card">
+                                <img src="..." className="card-img-top" alt="Card 3" />
 
                                 <div className="card-body">
                                     <h4 className="card-title">Card Three</h4>
@@ -86,4 +74,3 @@ const About = () => {
 };
 
 export default About;
-```
