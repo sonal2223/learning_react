@@ -54,9 +54,7 @@ const Footer = () => {
                         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" style={iconStyle}>
                             <FaTwitter />
                         </a>
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" style={iconStyle}>
-                            <FaLinkedinIn />
-                        </a>
+                        
                     </div>
                 </div>
 
