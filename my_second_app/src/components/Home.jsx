@@ -65,7 +65,7 @@ const Home = () => {
                                 alt="Nature"
                                 style={{
                                     width: "100%",
-                                    maxWidth: "340px",
+                                    maxWidth: "400px",
                                     height: "auto",
                                     borderRadius: "20px",
                                     border: "6px solid #ffffff",
