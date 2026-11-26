@@ -9,7 +9,7 @@ const Header = () => {
         { name: "About", href: "#about" },
         { name: "Services", href: "#services" },
         { name: "Contact", href: "#contact" },
-        { name: "Footer", href: "#footer" },
+    
     ];
 
     const handleClick = (href) => {
